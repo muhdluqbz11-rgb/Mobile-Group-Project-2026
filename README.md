@@ -3,7 +3,7 @@ HOW TO CREATE YOUR OWN BRANCH FOR EACH PERSON (GROUP MEMBER)
 
 1. Find main branch 
 
-2. Press the small upside down triangle
+2. Press the small upside down triangle and press view all branch
 
 3. Look at the right top side there will be green button shown as "CREATE BRANCH"
 
